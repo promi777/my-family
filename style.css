@@ -1,0 +1,32 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 80px;
+}
+.p{
+    color: darkorange;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+    font-size: 20px;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+}
+section{
+    display: flex;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px
+}
+.pro{
+    width: 500px;
+    font-size: 20px;
+}
+
