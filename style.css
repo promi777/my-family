@@ -30,12 +30,24 @@ h2{
 .a{
     padding-left:90px;
 }
-.dream-big{
-    display: flex;
+.amy{
+    border: 5px solid;
+    margin-bottom: 10px;
+    margin-right: 80px;
+    margin-top: 25px;
+    margin-left: 80px;
+    background-color: hotpink;
+
 }
-.half-width{
-    font-size: 50%;
-}
+
+
+
+
+
+
+
+
+
 
 
 
